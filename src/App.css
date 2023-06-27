@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.wrapper{
+  height:100vh;
+}
+.login{
+  width:400px;
+  color:black;
+  background-color:bisque;
+  padding:20px;
+  height:min-content;
+  border-radius: 5px;
+}
